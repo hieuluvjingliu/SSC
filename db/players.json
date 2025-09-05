@@ -1,0 +1,1592 @@
+{
+  "46e407c2-a49a-40a7-973e-14bbc4aed2a0": {
+    "cash": 20274675,
+    "owned": [
+      {
+        "uid": "e16718c2-3aaa-4f36-89d4-5cdf96e9fc57",
+        "carId": "maserati_mc20_mythic",
+        "name": "Maserati MC20 (Mythic Beast Clan)",
+        "img": "(Maserati MC-20 style) in Mythic Beast Clan.png",
+        "basePrice": 210000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1050,
+        "acquiredAt": 1757052504259
+      },
+      {
+        "uid": "87b80b11-fd4f-490a-97a5-09dd18b73a6e",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "Limited",
+          "incomeMult": 2,
+          "priceMult": 5,
+          "chance": 8
+        },
+        "gps": 2500,
+        "acquiredAt": 1757052506952
+      },
+      {
+        "uid": "42fc9c88-6223-44b4-9a88-e3acf906e72b",
+        "carId": "lamborghini_huracan_mythic",
+        "name": "Lamborghini Huracan (Mythic Beast Clan)",
+        "img": "Lamborghini Huracan Mythic Beast Clan.png",
+        "basePrice": 200000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1000,
+        "acquiredAt": 1757052508298
+      },
+      {
+        "uid": "46ea63d0-346a-4cfe-b3d4-c2ca61092ac0",
+        "carId": "acura_nsx",
+        "name": "Acura NSX (MB)",
+        "img": "Acura NSX MB.png",
+        "basePrice": 160000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 800,
+        "acquiredAt": 1757052514355
+      },
+      {
+        "uid": "ed40f190-6ce2-4f62-b440-2d738c0ac9a1",
+        "carId": "mclaren_p1",
+        "name": "McLaren P1",
+        "img": "McLaren P1 .png",
+        "basePrice": 235000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1175,
+        "acquiredAt": 1757052528871
+      },
+      {
+        "uid": "4487af8f-4880-42b0-993f-5b44c48f3cdf",
+        "carId": "maserati_mc20_mythic",
+        "name": "Maserati MC20 (Mythic Beast Clan)",
+        "img": "(Maserati MC-20 style) in Mythic Beast Clan.png",
+        "basePrice": 210000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "Limited",
+          "incomeMult": 2,
+          "priceMult": 5,
+          "chance": 8
+        },
+        "gps": 2100,
+        "acquiredAt": 1757052534930
+      },
+      {
+        "uid": "2dd4e345-310f-4c89-baec-ab19fb243501",
+        "carId": "lamborghini_aventador",
+        "name": "Lamborghini Aventador",
+        "img": "Lamborghini Aventador ưng.png",
+        "basePrice": 230000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "Limited",
+          "incomeMult": 2,
+          "priceMult": 5,
+          "chance": 8
+        },
+        "gps": 2300,
+        "acquiredAt": 1757052535251
+      },
+      {
+        "uid": "1a261c7a-db46-4dc4-bd59-f89cc88a576e",
+        "carId": "mclaren_p1",
+        "name": "McLaren P1",
+        "img": "McLaren P1 .png",
+        "basePrice": 235000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1175,
+        "acquiredAt": 1757052538342
+      },
+      {
+        "uid": "2770a35d-844f-44af-9233-af27bdfe1f15",
+        "carId": "koenigsegg_jesko_fairy",
+        "name": "Koenigsegg Jesko (Fairy)",
+        "img": "Koenigsegg Jesko fairy.png",
+        "basePrice": 255000,
+        "tu_chat": "Mythic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1275,
+        "acquiredAt": 1757052541865
+      },
+      {
+        "uid": "1f9dba51-d054-4ffa-92d6-f748d1002af5",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Mythic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1250,
+        "acquiredAt": 1757052543818
+      },
+      {
+        "uid": "329751af-bee8-41c2-b369-36e1270df976",
+        "carId": "lexus_lfa",
+        "name": "Lexus LFA (MB)",
+        "img": "Lexus LFA MB.png",
+        "basePrice": 180000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "Speciale",
+          "incomeMult": 3,
+          "priceMult": 10,
+          "chance": 5
+        },
+        "gps": 2700,
+        "acquiredAt": 1757052556109
+      },
+      {
+        "uid": "5f87ca1f-c0c5-4ba2-81e6-6e537b1badd2",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1250,
+        "acquiredAt": 1757052557011
+      },
+      {
+        "uid": "7321f0d8-1f3c-488d-b58d-892081aa59a2",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1250,
+        "acquiredAt": 1757052557470
+      },
+      {
+        "uid": "571e2b8d-06ac-4319-80b7-474ef7d1a796",
+        "carId": "acura_nsx",
+        "name": "Acura NSX (MB)",
+        "img": "Acura NSX MB.png",
+        "basePrice": 160000,
+        "tu_chat": "Mythic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 800,
+        "acquiredAt": 1757052558463
+      },
+      {
+        "uid": "109636c5-30cc-44c7-a8c2-1d04546a7252",
+        "carId": "lexus_lfa",
+        "name": "Lexus LFA (MB)",
+        "img": "Lexus LFA MB.png",
+        "basePrice": 180000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "Series",
+          "incomeMult": 1.5,
+          "priceMult": 3,
+          "chance": 10
+        },
+        "gps": 1350,
+        "acquiredAt": 1757052559195
+      },
+      {
+        "uid": "fefee1b6-9557-4853-a6a9-4f3b9ba48f23",
+        "carId": "mclaren_p1_mb",
+        "name": "McLaren P1 (MB)",
+        "img": "McLaren P1 MB .png",
+        "basePrice": 240000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1200,
+        "acquiredAt": 1757052562483
+      },
+      {
+        "uid": "d95a3e24-11ad-4cdf-b7f6-165cf636dc9e",
+        "carId": "lexus_lfa",
+        "name": "Lexus LFA (MB)",
+        "img": "Lexus LFA MB.png",
+        "basePrice": 180000,
+        "tu_chat": "Celestial",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 900,
+        "acquiredAt": 1757052576846
+      },
+      {
+        "uid": "2d8d13c9-80ef-46ab-9817-5f54b629830b",
+        "carId": "ferrari_488_pista",
+        "name": "Ferrari 488 Pista (MB)",
+        "img": "Ferrari 488 Pista MB.png",
+        "basePrice": 220000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1100,
+        "acquiredAt": 1757052577212
+      },
+      {
+        "uid": "c96e90b0-2349-45f0-96ad-dcfc1d8a6742",
+        "carId": "maserati_mc20_mythic",
+        "name": "Maserati MC20 (Mythic Beast Clan)",
+        "img": "(Maserati MC-20 style) in Mythic Beast Clan.png",
+        "basePrice": 210000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1050,
+        "acquiredAt": 1757052577481
+      }
+    ],
+    "purchaseQueue": [
+      {
+        "ownedUid": "814d8b3d-0c10-43e0-992e-703adbedf220",
+        "readyAt": 1757013192768
+      },
+      {
+        "ownedUid": "466903ac-1b1f-4f4b-853e-264441bcdf46",
+        "readyAt": 1757013194647
+      },
+      {
+        "ownedUid": "0ab85f52-c623-45b8-afdb-5b724c7a8a60",
+        "readyAt": 1757013389770
+      },
+      {
+        "ownedUid": "292f974a-c975-4b84-9a67-792d39ee4e7f",
+        "readyAt": 1757014302518
+      },
+      {
+        "ownedUid": "5bd50ff8-e312-4508-bfc3-31c044ac80c7",
+        "readyAt": 1757014701864
+      },
+      {
+        "ownedUid": "9fc957ec-c3ba-4f66-ab1c-0a2e7ed9b013",
+        "readyAt": 1757045040684
+      },
+      {
+        "ownedUid": "93104367-ecd7-4961-814d-4d5d62b9a3d5",
+        "readyAt": 1757045058105
+      },
+      {
+        "ownedUid": "cadea3ab-17b8-49fd-ad02-c7b2928d818b",
+        "readyAt": 1757045058680
+      },
+      {
+        "ownedUid": "9e887bea-ca87-4de4-868f-7cfe23153b75",
+        "readyAt": 1757045176637
+      },
+      {
+        "ownedUid": "c3cbb452-df96-4813-aad6-15a4714db563",
+        "readyAt": 1757048464087
+      },
+      {
+        "ownedUid": "91d8ab26-8fd8-4948-8025-6dcb7c71ba70",
+        "readyAt": 1757048474096
+      },
+      {
+        "ownedUid": "23ffbc1d-fbf3-4b25-9688-74e3ab75fb88",
+        "readyAt": 1757049594980
+      },
+      {
+        "ownedUid": "a70b2c29-01b7-4267-9988-3298eb32230c",
+        "readyAt": 1757049610152
+      },
+      {
+        "ownedUid": "a66b3ede-a04e-49bf-8c5c-8510e9431677",
+        "readyAt": 1757049622589
+      },
+      {
+        "ownedUid": "bb7a3ba2-574e-4175-bbc4-e84ae03f97ee",
+        "readyAt": 1757049623086
+      },
+      {
+        "ownedUid": "21fcc48d-ab9b-4b30-a502-205a637fc0ac",
+        "readyAt": 1757049817867
+      },
+      {
+        "ownedUid": "01a0967a-ab45-4858-80a8-833155e280ba",
+        "readyAt": 1757049819824
+      },
+      {
+        "ownedUid": "35c82caa-7c09-40df-8727-6464315bf640",
+        "readyAt": 1757049896647
+      },
+      {
+        "ownedUid": "8373574c-e920-4339-8ee5-903296450c76",
+        "readyAt": 1757050063853
+      },
+      {
+        "ownedUid": "f6bb7cbf-d5b0-426b-9279-f038c1ab14bd",
+        "readyAt": 1757052512401
+      },
+      {
+        "ownedUid": "a5c19886-e1b6-47b8-8fb0-48318c885d77",
+        "readyAt": 1757052513192
+      },
+      {
+        "ownedUid": "4a1d023c-74b3-4756-adb1-23b7e4f67ac6",
+        "readyAt": 1757052513635
+      },
+      {
+        "ownedUid": "03b3a9ad-5359-4a99-b281-7364566a5e5f",
+        "readyAt": 1757052513958
+      },
+      {
+        "ownedUid": "e16718c2-3aaa-4f36-89d4-5cdf96e9fc57",
+        "readyAt": 1757052514259
+      },
+      {
+        "ownedUid": "87b80b11-fd4f-490a-97a5-09dd18b73a6e",
+        "readyAt": 1757052516952
+      },
+      {
+        "ownedUid": "42fc9c88-6223-44b4-9a88-e3acf906e72b",
+        "readyAt": 1757052518298
+      },
+      {
+        "ownedUid": "46ea63d0-346a-4cfe-b3d4-c2ca61092ac0",
+        "readyAt": 1757052524355
+      },
+      {
+        "ownedUid": "4a3e6708-4136-419c-9493-ea6dec1af5a3",
+        "readyAt": 1757052524883
+      },
+      {
+        "ownedUid": "0216f376-64d1-4ac6-8213-e75c9e0a888f",
+        "readyAt": 1757052526809
+      },
+      {
+        "ownedUid": "69b5845d-6351-4dcb-a42d-ae291fb3278a",
+        "readyAt": 1757052530457
+      },
+      {
+        "ownedUid": "8f6b25e2-aca0-417c-b70e-83fd80cffde9",
+        "readyAt": 1757052535591
+      },
+      {
+        "ownedUid": "df2db18c-4c2a-4641-a2c2-7663736c1d8d",
+        "readyAt": 1757052536016
+      },
+      {
+        "ownedUid": "ed40f190-6ce2-4f62-b440-2d738c0ac9a1",
+        "readyAt": 1757052538871
+      },
+      {
+        "ownedUid": "4487af8f-4880-42b0-993f-5b44c48f3cdf",
+        "readyAt": 1757052544930
+      },
+      {
+        "ownedUid": "2dd4e345-310f-4c89-baec-ab19fb243501",
+        "readyAt": 1757052545251
+      },
+      {
+        "ownedUid": "1a261c7a-db46-4dc4-bd59-f89cc88a576e",
+        "readyAt": 1757052548342
+      },
+      {
+        "ownedUid": "2770a35d-844f-44af-9233-af27bdfe1f15",
+        "readyAt": 1757052551865
+      },
+      {
+        "ownedUid": "1f9dba51-d054-4ffa-92d6-f748d1002af5",
+        "readyAt": 1757052553818
+      },
+      {
+        "ownedUid": "329751af-bee8-41c2-b369-36e1270df976",
+        "readyAt": 1757052566109
+      },
+      {
+        "ownedUid": "5f87ca1f-c0c5-4ba2-81e6-6e537b1badd2",
+        "readyAt": 1757052567011
+      },
+      {
+        "ownedUid": "7321f0d8-1f3c-488d-b58d-892081aa59a2",
+        "readyAt": 1757052567470
+      },
+      {
+        "ownedUid": "571e2b8d-06ac-4319-80b7-474ef7d1a796",
+        "readyAt": 1757052568463
+      },
+      {
+        "ownedUid": "109636c5-30cc-44c7-a8c2-1d04546a7252",
+        "readyAt": 1757052569195
+      },
+      {
+        "ownedUid": "fefee1b6-9557-4853-a6a9-4f3b9ba48f23",
+        "readyAt": 1757052572483
+      },
+      {
+        "ownedUid": "d95a3e24-11ad-4cdf-b7f6-165cf636dc9e",
+        "readyAt": 1757052586846
+      },
+      {
+        "ownedUid": "2d8d13c9-80ef-46ab-9817-5f54b629830b",
+        "readyAt": 1757052587212
+      },
+      {
+        "ownedUid": "c96e90b0-2349-45f0-96ad-dcfc1d8a6742",
+        "readyAt": 1757052587481
+      }
+    ],
+    "name": "hieu",
+    "lockUntil": 1757052658108,
+    "password": "hieu"
+  },
+  "f666b693-2368-4ace-a047-5bc85818bff0": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-f666",
+    "lockUntil": 0
+  },
+  "dad897a6-6726-4c39-b927-b4fc9ed932b6": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-dad8",
+    "lockUntil": 0
+  },
+  "c1123286-e4b7-4e57-bb52-570551e40215": {
+    "cash": 3881600,
+    "owned": [
+      {
+        "uid": "21db5f9d-8429-4692-b0c5-00cd7157f5f7",
+        "carId": "acura_nsx",
+        "name": "Acura NSX (MB)",
+        "img": "Acura NSX MB.png",
+        "basePrice": 160000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 800,
+        "acquiredAt": 1757013286387
+      }
+    ],
+    "purchaseQueue": [],
+    "name": "Player-c112",
+    "lockUntil": 1757013349897
+  },
+  "9cb664ce-0500-473f-ae5f-51137d448bfd": {
+    "cash": 4208000,
+    "owned": [
+      {
+        "uid": "c5436c5d-545f-437a-8d05-b868a9305d55",
+        "carId": "lexus_lfa",
+        "name": "Lexus LFA (MB)",
+        "img": "Lexus LFA MB.png",
+        "basePrice": 180000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 900,
+        "acquiredAt": 1757013318527
+      }
+    ],
+    "purchaseQueue": [],
+    "name": "Player-9cb6",
+    "lockUntil": 1757013427347
+  },
+  "2de82553-a569-45c9-ac7a-e31880fbffa4": {
+    "cash": 5587325,
+    "owned": [
+      {
+        "uid": "0526acb7-1a0f-4cdf-a607-65caf11a5fc3",
+        "carId": "koenigsegg_jesko_fairy",
+        "name": "Koenigsegg Jesko (Fairy)",
+        "img": "Koenigsegg Jesko fairy.png",
+        "basePrice": 255000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1275,
+        "acquiredAt": 1757013636693
+      }
+    ],
+    "purchaseQueue": [],
+    "name": "Player-2de8",
+    "lockUntil": 0
+  },
+  "bbaa5139-6714-460f-99f1-a59aa6dd289f": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-bbaa",
+    "lockUntil": 1757014346756
+  },
+  "0dec9d6b-84ac-4e11-b449-09564957be1f": {
+    "cash": 81200,
+    "owned": [],
+    "purchaseQueue": [
+      {
+        "ownedUid": "bc9e846f-aa50-4143-9567-eed8e1ea3f00",
+        "readyAt": 1757014663108
+      }
+    ],
+    "name": "Player-0dec",
+    "lockUntil": 0
+  },
+  "a7b89fa0-dc9e-479b-b153-492d9d058f25": {
+    "cash": 18559175,
+    "owned": [
+      {
+        "uid": "7a118917-306a-4db6-9f5f-f90bdef93aa4",
+        "carId": "acura_nsx",
+        "name": "Acura NSX (MB)",
+        "img": "Acura NSX MB.png",
+        "basePrice": 160000,
+        "tu_chat": "Mythic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 800,
+        "acquiredAt": 1757045075504
+      },
+      {
+        "uid": "8940f31f-f6ea-4ad9-8064-0ca6263d19d5",
+        "carId": "mclaren_p1",
+        "name": "McLaren P1",
+        "img": "McLaren P1 .png",
+        "basePrice": 235000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1175,
+        "acquiredAt": 1757045076006
+      },
+      {
+        "uid": "18c63a88-9d52-4616-b27b-66874ebc4af3",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1250,
+        "acquiredAt": 1757045076461
+      },
+      {
+        "uid": "71351fec-6452-45f6-9c2c-77abad92ef99",
+        "carId": "lamborghini_huracan_mythic",
+        "name": "Lamborghini Huracan (Mythic Beast Clan)",
+        "img": "Lamborghini Huracan Mythic Beast Clan.png",
+        "basePrice": 200000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1000,
+        "acquiredAt": 1757045076842
+      },
+      {
+        "uid": "a5f7513b-e846-46e7-9929-51098d431208",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1250,
+        "acquiredAt": 1757045177876
+      }
+    ],
+    "purchaseQueue": [
+      {
+        "ownedUid": "7a118917-306a-4db6-9f5f-f90bdef93aa4",
+        "readyAt": 1757045085504
+      },
+      {
+        "ownedUid": "8940f31f-f6ea-4ad9-8064-0ca6263d19d5",
+        "readyAt": 1757045086006
+      },
+      {
+        "ownedUid": "18c63a88-9d52-4616-b27b-66874ebc4af3",
+        "readyAt": 1757045086461
+      },
+      {
+        "ownedUid": "71351fec-6452-45f6-9c2c-77abad92ef99",
+        "readyAt": 1757045086842
+      },
+      {
+        "ownedUid": "a5f7513b-e846-46e7-9929-51098d431208",
+        "readyAt": 1757045187876
+      }
+    ],
+    "name": "Player-a7b8",
+    "lockUntil": 1757045149352
+  },
+  "50cc57fc-bde8-4496-aff7-8bb1fbcae58b": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-50cc",
+    "lockUntil": 0
+  },
+  "49648b64-c2f1-4601-ac03-564109fbf687": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-4964",
+    "lockUntil": 0
+  },
+  "28cc78f1-ddab-457d-a65f-ec5e017af850": {
+    "cash": 57350,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-28cc",
+    "lockUntil": 0
+  },
+  "93a739bd-247c-414c-addc-bf6423511559": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-93a7",
+    "lockUntil": 0
+  },
+  "30ab9537-1cbb-43db-a5fd-cc322b916f50": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-30ab",
+    "lockUntil": 0
+  },
+  "168d9280-a838-4ac0-a0f5-14ed24fbf6ac": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-168d",
+    "lockUntil": 0
+  },
+  "f48769d6-8e92-40af-86af-685778d2e1dc": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-f487",
+    "lockUntil": 1757049953151
+  },
+  "257e41b7-9ab7-430b-bb2a-a8b86691f616": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-257e",
+    "lockUntil": 0
+  },
+  "ea6dc6ad-2628-43ef-a9c8-f0c64ffd8127": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-ea6d",
+    "lockUntil": 0
+  },
+  "0845edd0-6ade-454f-b30d-fef15728e381": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "ha",
+    "lockUntil": 0
+  },
+  "0d593a57-c348-45d6-a984-fa2c4b327134": {
+    "cash": 60000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "q",
+    "lockUntil": 0
+  },
+  "4e54fe17-917d-460a-91e6-08064b8db21f": {
+    "cash": 1423850,
+    "owned": [
+      {
+        "uid": "96949192-c6cf-4dd5-badb-389854aecb42",
+        "carId": "maserati_mc20_mythic",
+        "name": "Maserati MC20 (Mythic Beast Clan)",
+        "img": "(Maserati MC-20 style) in Mythic Beast Clan.png",
+        "basePrice": 210000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1050,
+        "acquiredAt": 1757050609403
+      }
+    ],
+    "purchaseQueue": [
+      {
+        "ownedUid": "96949192-c6cf-4dd5-badb-389854aecb42",
+        "readyAt": 1757050619403
+      }
+    ],
+    "name": "w",
+    "lockUntil": 1757050682906
+  },
+  "0690b990-f838-4dbe-a70d-ad1c817df1ff": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-0690",
+    "lockUntil": 0
+  },
+  "74147837-e8d4-4383-b739-bebd5eb74ed0": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-7414",
+    "lockUntil": 0
+  },
+  "d55ac58e-14d9-4076-b90d-d5b0e97e57d3": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "q",
+    "lockUntil": 0
+  },
+  "b4edebd2-45ca-41fa-993c-4aed21a122fa": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "q",
+    "lockUntil": 0
+  },
+  "6db47f14-dbfe-41dd-8f4f-79a2a6a1e9de": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-6db4",
+    "lockUntil": 0
+  },
+  "972fd38d-7a74-4385-a361-35e09512b3ef": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-972f",
+    "lockUntil": 0
+  },
+  "db7d6520-c555-40d4-bde5-c2623246cc18": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-db7d",
+    "lockUntil": 0
+  },
+  "41946bce-9c45-4cd3-b21b-19c8bfd5158b": {
+    "cash": 48000,
+    "owned": [],
+    "purchaseQueue": [
+      {
+        "ownedUid": "b576d7c1-2a3e-488e-ae79-80f59876663c",
+        "readyAt": 1757051299126
+      },
+      {
+        "ownedUid": "37d04f15-7729-4202-98ae-3bc69aaa1681",
+        "readyAt": 1757051314580
+      }
+    ],
+    "name": "1",
+    "lockUntil": 0
+  },
+  "f8dafc33-f06a-4f09-9c78-eaa896f94706": {
+    "cash": 886000,
+    "owned": [
+      {
+        "uid": "092cc1ad-3354-4e15-8a23-7d62981868d7",
+        "carId": "lamborghini_huracan_mythic",
+        "name": "Lamborghini Huracan (Mythic Beast Clan)",
+        "img": "Lamborghini Huracan Mythic Beast Clan.png",
+        "basePrice": 200000,
+        "tu_chat": "Mythic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1000,
+        "acquiredAt": 1757051327372
+      }
+    ],
+    "purchaseQueue": [
+      {
+        "ownedUid": "092cc1ad-3354-4e15-8a23-7d62981868d7",
+        "readyAt": 1757051337372
+      }
+    ],
+    "name": "2",
+    "lockUntil": 0
+  },
+  "0d147aee-68f3-4b04-8390-ddd891679b37": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-0d14",
+    "lockUntil": 0
+  },
+  "24737261-bd77-4dc9-96ea-ad42fff20ade": {
+    "cash": 7713550,
+    "owned": [
+      {
+        "uid": "a6e533cf-f5ea-4a8b-9ef4-cd94ffe69ca4",
+        "carId": "maserati_mc20_mythic",
+        "name": "Maserati MC20 (Mythic Beast Clan)",
+        "img": "(Maserati MC-20 style) in Mythic Beast Clan.png",
+        "basePrice": 210000,
+        "tu_chat": "Transcendent",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1050,
+        "acquiredAt": 1757051412451
+      },
+      {
+        "uid": "15311100-a1eb-4b87-8841-391b49214eff",
+        "carId": "mclaren_p1",
+        "name": "McLaren P1",
+        "img": "McLaren P1 .png",
+        "basePrice": 235000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1175,
+        "acquiredAt": 1757051412862
+      },
+      {
+        "uid": "6758b98e-c602-4550-854a-b103277517b4",
+        "carId": "koenigsegg_jesko_fairy",
+        "name": "Koenigsegg Jesko (Fairy)",
+        "img": "Koenigsegg Jesko fairy.png",
+        "basePrice": 255000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1275,
+        "acquiredAt": 1757051413239
+      },
+      {
+        "uid": "74c059b2-ae0d-47da-9183-2096876e2693",
+        "carId": "ferrari_488_pista",
+        "name": "Ferrari 488 Pista (MB)",
+        "img": "Ferrari 488 Pista MB.png",
+        "basePrice": 220000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1100,
+        "acquiredAt": 1757051413543
+      },
+      {
+        "uid": "ac056be0-e2a3-41cf-bbe9-3a1df6d1234e",
+        "carId": "mclaren_p1_mb",
+        "name": "McLaren P1 (MB)",
+        "img": "McLaren P1 MB .png",
+        "basePrice": 240000,
+        "tu_chat": "Celestial",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1200,
+        "acquiredAt": 1757051414523
+      },
+      {
+        "uid": "ab77fbea-e3f7-47d1-a00c-1cb9992d9616",
+        "carId": "ferrari_488_pista",
+        "name": "Ferrari 488 Pista (MB)",
+        "img": "Ferrari 488 Pista MB.png",
+        "basePrice": 220000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1100,
+        "acquiredAt": 1757051414837
+      },
+      {
+        "uid": "df3e6712-a635-4c13-9889-9ec207a80242",
+        "carId": "mclaren_p1",
+        "name": "McLaren P1",
+        "img": "McLaren P1 .png",
+        "basePrice": 235000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1175,
+        "acquiredAt": 1757051415115
+      },
+      {
+        "uid": "ff1c8015-828c-4bc7-9075-f016a1e61f78",
+        "carId": "lamborghini_huracan_mythic",
+        "name": "Lamborghini Huracan (Mythic Beast Clan)",
+        "img": "Lamborghini Huracan Mythic Beast Clan.png",
+        "basePrice": 200000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1000,
+        "acquiredAt": 1757051415366
+      },
+      {
+        "uid": "dd89a0b1-93d9-439f-89ca-379dd9b53256",
+        "carId": "koenigsegg_jesko_fairy",
+        "name": "Koenigsegg Jesko (Fairy)",
+        "img": "Koenigsegg Jesko fairy.png",
+        "basePrice": 255000,
+        "tu_chat": "Mythic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1275,
+        "acquiredAt": 1757051416064
+      }
+    ],
+    "purchaseQueue": [
+      {
+        "ownedUid": "a6e533cf-f5ea-4a8b-9ef4-cd94ffe69ca4",
+        "readyAt": 1757051422451
+      },
+      {
+        "ownedUid": "15311100-a1eb-4b87-8841-391b49214eff",
+        "readyAt": 1757051422862
+      },
+      {
+        "ownedUid": "6758b98e-c602-4550-854a-b103277517b4",
+        "readyAt": 1757051423239
+      },
+      {
+        "ownedUid": "74c059b2-ae0d-47da-9183-2096876e2693",
+        "readyAt": 1757051423543
+      },
+      {
+        "ownedUid": "ac056be0-e2a3-41cf-bbe9-3a1df6d1234e",
+        "readyAt": 1757051424523
+      },
+      {
+        "ownedUid": "ab77fbea-e3f7-47d1-a00c-1cb9992d9616",
+        "readyAt": 1757051424837
+      },
+      {
+        "ownedUid": "df3e6712-a635-4c13-9889-9ec207a80242",
+        "readyAt": 1757051425115
+      },
+      {
+        "ownedUid": "ff1c8015-828c-4bc7-9075-f016a1e61f78",
+        "readyAt": 1757051425366
+      },
+      {
+        "ownedUid": "dd89a0b1-93d9-439f-89ca-379dd9b53256",
+        "readyAt": 1757051426064
+      }
+    ],
+    "name": "1231",
+    "lockUntil": 0
+  },
+  "ad99cece-cf6d-425e-9de3-9b726b45c79f": {
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "name": "Player-ad99",
+    "lockUntil": 0
+  },
+  "90fa82e0-d82b-4457-8f0f-9c282ccf5488": {
+    "name": "test",
+    "password": "test",
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "lockUntil": 0
+  },
+  "37acf13b-758a-40ad-a196-5204cf97b3d6": {
+    "cash": 20274675,
+    "owned": [
+      {
+        "uid": "e16718c2-3aaa-4f36-89d4-5cdf96e9fc57",
+        "carId": "maserati_mc20_mythic",
+        "name": "Maserati MC20 (Mythic Beast Clan)",
+        "img": "(Maserati MC-20 style) in Mythic Beast Clan.png",
+        "basePrice": 210000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1050,
+        "acquiredAt": 1757052504259
+      },
+      {
+        "uid": "87b80b11-fd4f-490a-97a5-09dd18b73a6e",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "Limited",
+          "incomeMult": 2,
+          "priceMult": 5,
+          "chance": 8
+        },
+        "gps": 2500,
+        "acquiredAt": 1757052506952
+      },
+      {
+        "uid": "42fc9c88-6223-44b4-9a88-e3acf906e72b",
+        "carId": "lamborghini_huracan_mythic",
+        "name": "Lamborghini Huracan (Mythic Beast Clan)",
+        "img": "Lamborghini Huracan Mythic Beast Clan.png",
+        "basePrice": 200000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1000,
+        "acquiredAt": 1757052508298
+      },
+      {
+        "uid": "46ea63d0-346a-4cfe-b3d4-c2ca61092ac0",
+        "carId": "acura_nsx",
+        "name": "Acura NSX (MB)",
+        "img": "Acura NSX MB.png",
+        "basePrice": 160000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 800,
+        "acquiredAt": 1757052514355
+      },
+      {
+        "uid": "ed40f190-6ce2-4f62-b440-2d738c0ac9a1",
+        "carId": "mclaren_p1",
+        "name": "McLaren P1",
+        "img": "McLaren P1 .png",
+        "basePrice": 235000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1175,
+        "acquiredAt": 1757052528871
+      },
+      {
+        "uid": "4487af8f-4880-42b0-993f-5b44c48f3cdf",
+        "carId": "maserati_mc20_mythic",
+        "name": "Maserati MC20 (Mythic Beast Clan)",
+        "img": "(Maserati MC-20 style) in Mythic Beast Clan.png",
+        "basePrice": 210000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "Limited",
+          "incomeMult": 2,
+          "priceMult": 5,
+          "chance": 8
+        },
+        "gps": 2100,
+        "acquiredAt": 1757052534930
+      },
+      {
+        "uid": "2dd4e345-310f-4c89-baec-ab19fb243501",
+        "carId": "lamborghini_aventador",
+        "name": "Lamborghini Aventador",
+        "img": "Lamborghini Aventador ưng.png",
+        "basePrice": 230000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "Limited",
+          "incomeMult": 2,
+          "priceMult": 5,
+          "chance": 8
+        },
+        "gps": 2300,
+        "acquiredAt": 1757052535251
+      },
+      {
+        "uid": "1a261c7a-db46-4dc4-bd59-f89cc88a576e",
+        "carId": "mclaren_p1",
+        "name": "McLaren P1",
+        "img": "McLaren P1 .png",
+        "basePrice": 235000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1175,
+        "acquiredAt": 1757052538342
+      },
+      {
+        "uid": "2770a35d-844f-44af-9233-af27bdfe1f15",
+        "carId": "koenigsegg_jesko_fairy",
+        "name": "Koenigsegg Jesko (Fairy)",
+        "img": "Koenigsegg Jesko fairy.png",
+        "basePrice": 255000,
+        "tu_chat": "Mythic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1275,
+        "acquiredAt": 1757052541865
+      },
+      {
+        "uid": "1f9dba51-d054-4ffa-92d6-f748d1002af5",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Mythic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1250,
+        "acquiredAt": 1757052543818
+      },
+      {
+        "uid": "329751af-bee8-41c2-b369-36e1270df976",
+        "carId": "lexus_lfa",
+        "name": "Lexus LFA (MB)",
+        "img": "Lexus LFA MB.png",
+        "basePrice": 180000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "Speciale",
+          "incomeMult": 3,
+          "priceMult": 10,
+          "chance": 5
+        },
+        "gps": 2700,
+        "acquiredAt": 1757052556109
+      },
+      {
+        "uid": "5f87ca1f-c0c5-4ba2-81e6-6e537b1badd2",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1250,
+        "acquiredAt": 1757052557011
+      },
+      {
+        "uid": "7321f0d8-1f3c-488d-b58d-892081aa59a2",
+        "carId": "koenigsegg_jesko_demon",
+        "name": "Koenigsegg Jesko (Demon)",
+        "img": "Koenigsegg Jesko demon.png",
+        "basePrice": 250000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1250,
+        "acquiredAt": 1757052557470
+      },
+      {
+        "uid": "571e2b8d-06ac-4319-80b7-474ef7d1a796",
+        "carId": "acura_nsx",
+        "name": "Acura NSX (MB)",
+        "img": "Acura NSX MB.png",
+        "basePrice": 160000,
+        "tu_chat": "Mythic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 800,
+        "acquiredAt": 1757052558463
+      },
+      {
+        "uid": "109636c5-30cc-44c7-a8c2-1d04546a7252",
+        "carId": "lexus_lfa",
+        "name": "Lexus LFA (MB)",
+        "img": "Lexus LFA MB.png",
+        "basePrice": 180000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "Series",
+          "incomeMult": 1.5,
+          "priceMult": 3,
+          "chance": 10
+        },
+        "gps": 1350,
+        "acquiredAt": 1757052559195
+      },
+      {
+        "uid": "fefee1b6-9557-4853-a6a9-4f3b9ba48f23",
+        "carId": "mclaren_p1_mb",
+        "name": "McLaren P1 (MB)",
+        "img": "McLaren P1 MB .png",
+        "basePrice": 240000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1200,
+        "acquiredAt": 1757052562483
+      },
+      {
+        "uid": "d95a3e24-11ad-4cdf-b7f6-165cf636dc9e",
+        "carId": "lexus_lfa",
+        "name": "Lexus LFA (MB)",
+        "img": "Lexus LFA MB.png",
+        "basePrice": 180000,
+        "tu_chat": "Celestial",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 900,
+        "acquiredAt": 1757052576846
+      },
+      {
+        "uid": "2d8d13c9-80ef-46ab-9817-5f54b629830b",
+        "carId": "ferrari_488_pista",
+        "name": "Ferrari 488 Pista (MB)",
+        "img": "Ferrari 488 Pista MB.png",
+        "basePrice": 220000,
+        "tu_chat": "Forged",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1100,
+        "acquiredAt": 1757052577212
+      },
+      {
+        "uid": "c96e90b0-2349-45f0-96ad-dcfc1d8a6742",
+        "carId": "maserati_mc20_mythic",
+        "name": "Maserati MC20 (Mythic Beast Clan)",
+        "img": "(Maserati MC-20 style) in Mythic Beast Clan.png",
+        "basePrice": 210000,
+        "tu_chat": "Exotic",
+        "mutation": {
+          "name": "None",
+          "incomeMult": 1,
+          "priceMult": 1
+        },
+        "gps": 1050,
+        "acquiredAt": 1757052577481
+      }
+    ],
+    "purchaseQueue": [
+      {
+        "ownedUid": "814d8b3d-0c10-43e0-992e-703adbedf220",
+        "readyAt": 1757013192768
+      },
+      {
+        "ownedUid": "466903ac-1b1f-4f4b-853e-264441bcdf46",
+        "readyAt": 1757013194647
+      },
+      {
+        "ownedUid": "0ab85f52-c623-45b8-afdb-5b724c7a8a60",
+        "readyAt": 1757013389770
+      },
+      {
+        "ownedUid": "292f974a-c975-4b84-9a67-792d39ee4e7f",
+        "readyAt": 1757014302518
+      },
+      {
+        "ownedUid": "5bd50ff8-e312-4508-bfc3-31c044ac80c7",
+        "readyAt": 1757014701864
+      },
+      {
+        "ownedUid": "9fc957ec-c3ba-4f66-ab1c-0a2e7ed9b013",
+        "readyAt": 1757045040684
+      },
+      {
+        "ownedUid": "93104367-ecd7-4961-814d-4d5d62b9a3d5",
+        "readyAt": 1757045058105
+      },
+      {
+        "ownedUid": "cadea3ab-17b8-49fd-ad02-c7b2928d818b",
+        "readyAt": 1757045058680
+      },
+      {
+        "ownedUid": "9e887bea-ca87-4de4-868f-7cfe23153b75",
+        "readyAt": 1757045176637
+      },
+      {
+        "ownedUid": "c3cbb452-df96-4813-aad6-15a4714db563",
+        "readyAt": 1757048464087
+      },
+      {
+        "ownedUid": "91d8ab26-8fd8-4948-8025-6dcb7c71ba70",
+        "readyAt": 1757048474096
+      },
+      {
+        "ownedUid": "23ffbc1d-fbf3-4b25-9688-74e3ab75fb88",
+        "readyAt": 1757049594980
+      },
+      {
+        "ownedUid": "a70b2c29-01b7-4267-9988-3298eb32230c",
+        "readyAt": 1757049610152
+      },
+      {
+        "ownedUid": "a66b3ede-a04e-49bf-8c5c-8510e9431677",
+        "readyAt": 1757049622589
+      },
+      {
+        "ownedUid": "bb7a3ba2-574e-4175-bbc4-e84ae03f97ee",
+        "readyAt": 1757049623086
+      },
+      {
+        "ownedUid": "21fcc48d-ab9b-4b30-a502-205a637fc0ac",
+        "readyAt": 1757049817867
+      },
+      {
+        "ownedUid": "01a0967a-ab45-4858-80a8-833155e280ba",
+        "readyAt": 1757049819824
+      },
+      {
+        "ownedUid": "35c82caa-7c09-40df-8727-6464315bf640",
+        "readyAt": 1757049896647
+      },
+      {
+        "ownedUid": "8373574c-e920-4339-8ee5-903296450c76",
+        "readyAt": 1757050063853
+      },
+      {
+        "ownedUid": "f6bb7cbf-d5b0-426b-9279-f038c1ab14bd",
+        "readyAt": 1757052512401
+      },
+      {
+        "ownedUid": "a5c19886-e1b6-47b8-8fb0-48318c885d77",
+        "readyAt": 1757052513192
+      },
+      {
+        "ownedUid": "4a1d023c-74b3-4756-adb1-23b7e4f67ac6",
+        "readyAt": 1757052513635
+      },
+      {
+        "ownedUid": "03b3a9ad-5359-4a99-b281-7364566a5e5f",
+        "readyAt": 1757052513958
+      },
+      {
+        "ownedUid": "e16718c2-3aaa-4f36-89d4-5cdf96e9fc57",
+        "readyAt": 1757052514259
+      },
+      {
+        "ownedUid": "87b80b11-fd4f-490a-97a5-09dd18b73a6e",
+        "readyAt": 1757052516952
+      },
+      {
+        "ownedUid": "42fc9c88-6223-44b4-9a88-e3acf906e72b",
+        "readyAt": 1757052518298
+      },
+      {
+        "ownedUid": "46ea63d0-346a-4cfe-b3d4-c2ca61092ac0",
+        "readyAt": 1757052524355
+      },
+      {
+        "ownedUid": "4a3e6708-4136-419c-9493-ea6dec1af5a3",
+        "readyAt": 1757052524883
+      },
+      {
+        "ownedUid": "0216f376-64d1-4ac6-8213-e75c9e0a888f",
+        "readyAt": 1757052526809
+      },
+      {
+        "ownedUid": "69b5845d-6351-4dcb-a42d-ae291fb3278a",
+        "readyAt": 1757052530457
+      },
+      {
+        "ownedUid": "8f6b25e2-aca0-417c-b70e-83fd80cffde9",
+        "readyAt": 1757052535591
+      },
+      {
+        "ownedUid": "df2db18c-4c2a-4641-a2c2-7663736c1d8d",
+        "readyAt": 1757052536016
+      },
+      {
+        "ownedUid": "ed40f190-6ce2-4f62-b440-2d738c0ac9a1",
+        "readyAt": 1757052538871
+      },
+      {
+        "ownedUid": "4487af8f-4880-42b0-993f-5b44c48f3cdf",
+        "readyAt": 1757052544930
+      },
+      {
+        "ownedUid": "2dd4e345-310f-4c89-baec-ab19fb243501",
+        "readyAt": 1757052545251
+      },
+      {
+        "ownedUid": "1a261c7a-db46-4dc4-bd59-f89cc88a576e",
+        "readyAt": 1757052548342
+      },
+      {
+        "ownedUid": "2770a35d-844f-44af-9233-af27bdfe1f15",
+        "readyAt": 1757052551865
+      },
+      {
+        "ownedUid": "1f9dba51-d054-4ffa-92d6-f748d1002af5",
+        "readyAt": 1757052553818
+      },
+      {
+        "ownedUid": "329751af-bee8-41c2-b369-36e1270df976",
+        "readyAt": 1757052566109
+      },
+      {
+        "ownedUid": "5f87ca1f-c0c5-4ba2-81e6-6e537b1badd2",
+        "readyAt": 1757052567011
+      },
+      {
+        "ownedUid": "7321f0d8-1f3c-488d-b58d-892081aa59a2",
+        "readyAt": 1757052567470
+      },
+      {
+        "ownedUid": "571e2b8d-06ac-4319-80b7-474ef7d1a796",
+        "readyAt": 1757052568463
+      },
+      {
+        "ownedUid": "109636c5-30cc-44c7-a8c2-1d04546a7252",
+        "readyAt": 1757052569195
+      },
+      {
+        "ownedUid": "fefee1b6-9557-4853-a6a9-4f3b9ba48f23",
+        "readyAt": 1757052572483
+      },
+      {
+        "ownedUid": "d95a3e24-11ad-4cdf-b7f6-165cf636dc9e",
+        "readyAt": 1757052586846
+      },
+      {
+        "ownedUid": "2d8d13c9-80ef-46ab-9817-5f54b629830b",
+        "readyAt": 1757052587212
+      },
+      {
+        "ownedUid": "c96e90b0-2349-45f0-96ad-dcfc1d8a6742",
+        "readyAt": 1757052587481
+      }
+    ],
+    "name": "hieu",
+    "lockUntil": 1757052658108,
+    "password": "hieu"
+  },
+  "6754fdd4-e27e-4380-b29e-830f90b9c999": {
+    "name": "hieu1",
+    "password": "hieu1",
+    "cash": 50000,
+    "owned": [],
+    "purchaseQueue": [],
+    "lockUntil": 0
+  }
+}

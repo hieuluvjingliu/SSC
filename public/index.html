@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CocheGame — Showroom • Băng chuyền • Online</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>CocheGame</h1>
+    <div class="wallet">
+      <span>💰 <b id="cash">—</b></span>
+      <button id="addCashBtn" title="Debug add cash">+10k</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <nav class="tabs">
+      <button data-tab="showroom" class="active">Showroom</button>
+      <button data-tab="conveyor">Băng chuyền</button>
+      <button data-tab="online">Online</button>
+      <button data-tab="garage">Garage</button>
+      <button data-tab="help">Hướng dẫn</button>
+    </nav>
+
+    <!-- Showroom -->
+    <section class="tab" id="tab-showroom" data-tab="showroom">
+      <h2>Showroom</h2>
+      <div class="row">
+        <button id="lockBtn" title="Khóa showroom 60s">🔒 Lock 60s</button>
+        <span id="lockStatus" class="muted"></span>
+      </div>
+
+      <!-- Panel: Đang vận chuyển -->
+      <div id="incomingWrap" class="incoming hidden">
+        <h3>Đang vận chuyển</h3>
+        <div id="incomingList" class="incoming-list"></div>
+      </div>
+
+      <!-- Panel: Bị cướp – có thể lấy lại -->
+      <div id="reclaimWrap" class="incoming hidden">
+        <h3>Bị cướp – có thể lấy lại</h3>
+        <div id="reclaimList" class="incoming-list"></div>
+      </div>
+
+      <p class="muted">
+        Xe mua từ băng chuyền sẽ xuất hiện ở đây sau <b>10s</b>.
+        Có tối đa 15 slot mỗi tầng (sau này mở tầng bằng tiền).
+      </p>
+      <div id="showroomGrid" class="grid"></div>
+    </section>
+
+    <!-- Conveyor -->
+    <section class="tab hidden" id="tab-conveyor" data-tab="conveyor">
+      <h2>Băng chuyền</h2>
+      <p class="muted">Mỗi <b>3s</b> sinh 1 xe; mỗi xe trôi trong <b>20s</b> rồi biến mất. Bấm “Mua” ngay trên băng chuyền.</p>
+      <div id="conveyorWrap">
+        <div id="conveyorLane" class="lane"></div>
+      </div>
+      <div id="conveyorLegend" class="legend muted">
+        <span>GPS = 0.5% giá gốc × hệ số tư chất × hệ số đột biến</span>
+      </div>
+    </section>
+
+    <!-- Online -->
+    <section class="tab hidden" id="tab-online" data-tab="online">
+      <h2>Player online</h2>
+      <div id="onlineList" class="grid"></div>
+      <div id="visitArea" class="visit hidden">
+        <h3 id="visitTitle"></h3>
+        <div id="visitGrid" class="grid"></div>
+      </div>
+    </section>
+
+    <!-- Garage -->
+    <section class="tab hidden" id="tab-garage" data-tab="garage">
+      <h2>Garage</h2>
+      <div id="garageGrid" class="grid"></div>
+    </section>
+
+    <!-- Help -->
+    <section class="tab hidden" id="tab-help" data-tab="help">
+      <h2>Hướng dẫn</h2>
+      <ul>
+        <li>Xe xuất hiện ở <b>Băng chuyền</b> mỗi 3 giây, trôi trong 20 giây.</li>
+        <li>Bấm “Mua” để mua xe. Xe sẽ về <b>Showroom</b> sau 10 giây.</li>
+        <li><b>Garage</b> chứa toàn bộ xe sở hữu.</li>
+        <li><b>GPS</b> = thu nhập vàng mỗi giây từ xe đã mua.</li>
+        <li><b>Online</b>: ghé showroom người khác, có thể Steal xe nếu họ chưa lock.</li>
+        <li><b>Lock showroom</b>: ngăn bị steal trong 60 giây.</li>
+      </ul>
+      <p class="muted">Ảnh xe nằm trong <code>/public/assets</code>, trùng tên với trường <code>img</code> của từng xe.</p>
+    </section>
+  </main>
+  <!-- Login Modal -->
+<div id="loginModal" class="modal shown">
+  <div class="modal-card">
+    <h3>Đăng nhập</h3>
+    <form id="loginForm">
+      <label> Tên
+        <input id="loginName" type="text" placeholder="Nhập tên" required maxlength="20" />
+      </label>
+      <label> Mật khẩu
+        <input id="loginPass" type="password" placeholder="Nhập mật khẩu" required />
+      </label>
+      <button type="submit" class="button">Vào game</button>
+    </form>
+    <p class="muted">Nếu tên chưa tồn tại, hệ thống sẽ tạo tài khoản mới với mật khẩu bạn nhập.</p>
+  </div>
+</div>
+
+  <footer class="footer">
+    <span>Made for Node + WebSocket demo.</span>
+    <span id="session"></span>
+  </footer>
+
+  <script src="/client.js" type="module"></script>
+</body>
+</html>

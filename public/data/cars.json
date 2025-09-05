@@ -1,0 +1,92 @@
+[
+  {
+    "id": "koenigsegg_jesko_demon",
+    "name": "Koenigsegg Jesko (Demon)",
+    "price": 25000,
+    "speed": 98,
+    "accel": 95,
+    "handling": 92,
+    "img": "Koenigsegg Jesko demon.png"
+  },
+  {
+    "id": "koenigsegg_jesko_fairy",
+    "name": "Koenigsegg Jesko (Fairy)",
+    "price": 25500,
+    "speed": 97,
+    "accel": 96,
+    "handling": 93,
+    "img": "Koenigsegg Jesko fairy.png"
+  },
+  {
+    "id": "maserati_mc20_mythic",
+    "name": "Maserati MC20 (Mythic Beast Clan)",
+    "price": 21000,
+    "speed": 92,
+    "accel": 90,
+    "handling": 88,
+    "img": "(Maserati MC-20 style) in Mythic Beast Clan.png"
+  },
+  {
+    "id": "lamborghini_aventador",
+    "name": "Lamborghini Aventador",
+    "price": 23000,
+    "speed": 94,
+    "accel": 91,
+    "handling": 89,
+    "img": "Lamborghini Aventador ưng.png"
+  },
+  {
+    "id": "lamborghini_huracan_mythic",
+    "name": "Lamborghini Huracan (Mythic Beast Clan)",
+    "price": 20000,
+    "speed": 90,
+    "accel": 88,
+    "handling": 90,
+    "img": "Lamborghini Huracan Mythic Beast Clan.png"
+  },
+  {
+    "id": "ferrari_488_pista",
+    "name": "Ferrari 488 Pista (MB)",
+    "price": 22000,
+    "speed": 93,
+    "accel": 92,
+    "handling": 90,
+    "img": "Ferrari 488 Pista MB.png"
+  },
+  {
+    "id": "lexus_lfa",
+    "name": "Lexus LFA (MB)",
+    "price": 18000,
+    "speed": 88,
+    "accel": 86,
+    "handling": 87,
+    "img": "Lexus LFA MB.png"
+  },
+  {
+    "id": "acura_nsx",
+    "name": "Acura NSX (MB)",
+    "price": 16000,
+    "speed": 86,
+    "accel": 85,
+    "handling": 86,
+    "img": "Acura NSX MB.png"
+  },
+  {
+    "id": "mclaren_p1_mb",
+    "name": "McLaren P1 (MB)",
+    "price": 24000,
+    "speed": 96,
+    "accel": 95,
+    "handling": 92,
+    "img": "McLaren P1 MB .png"
+  },
+  {
+    "id": "mclaren_p1",
+    "name": "McLaren P1",
+    "price": 23500,
+    "speed": 95,
+    "accel": 94,
+    "handling": 91,
+    "img": "McLaren P1 .png"
+  }
+]

@@ -1,0 +1,194 @@
+*{box-sizing:border-box}
+html,body{
+  height:100%;margin:0;
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial,'Noto Sans',sans-serif;
+  background:#0b0d10;color:#e5e7eb
+}
+
+/* Topbar */
+.topbar{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:12px 20px;background:#111827;
+  border-bottom:1px solid #1f2937;position:sticky;top:0;z-index:10
+}
+.topbar h1{margin:0;font-size:20px;letter-spacing:.5px}
+.wallet{display:flex;gap:10px;align-items:center}
+.wallet button{
+  background:#1f2937;border:1px solid #374151;
+  color:#e5e7eb;padding:6px 10px;border-radius:10px;cursor:pointer
+}
+.wallet button:hover{filter:brightness(1.1)}
+
+/* Layout */
+.layout{max-width:1100px;margin:20px auto;padding:0 16px}
+.tabs{display:flex;gap:8px;border-bottom:1px solid #1f2937;margin-bottom:16px}
+.tabs button{
+  background:#111827;color:#e5e7eb;border:1px solid #1f2937;border-bottom:none;
+  padding:10px 14px;border-top-left-radius:10px;border-top-right-radius:10px;
+  cursor:pointer;opacity:.8
+}
+.tabs button.active{background:#0b0d10;opacity:1}
+.tab.hidden{display:none}
+
+/* Grid cards */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.card{
+  background:#0d1117;border:1px solid #1f2937;border-radius:14px;
+  padding:12px;display:flex;flex-direction:column;gap:8px
+}
+.card img{
+  width:100%;height:140px;object-fit:contain;image-rendering:pixelated;
+  background:#0b0d10;border-radius:10px;border:1px dashed #1f2937
+}
+.card .name{font-weight:bold}
+.card .stats{font-size:12px;color:#9ca3af}
+.card .price{font-weight:bold}
+.card .buy,.card .visit{
+  margin-top:auto;background:#1f2937;border:1px solid #374151;
+  color:#e5e7eb;padding:8px;border-radius:10px;cursor:pointer
+}
+.card .buy:hover,.card .visit:hover{filter:brightness(1.1)}
+
+/* Footer */
+.footer{display:flex;justify-content:space-between;align-items:center;gap:8px;opacity:.6;padding:20px}
+.muted{color:#9ca3af;font-size:12px}
+.row{display:flex;gap:10px;align-items:center;margin-bottom:10px}
+
+/* Conveyor */
+#conveyorWrap{
+  position:relative;overflow:hidden;
+  border:1px solid #1f2937;border-radius:12px;
+  background:#0d1117;margin-bottom:12px
+}
+#conveyorLane{
+  position:relative;
+  height:380px;       /* cao hơn để không che nút */
+  overflow:hidden
+}
+.slot{
+  position:absolute;top:10px;
+  width:260px;min-height:340px; /* slot cao hơn */
+  background:#0b0d10;border:1px solid #1f2937;border-radius:12px;
+  padding:10px;display:flex;flex-direction:column;gap:8px;
+  will-change:transform,left
+}
+.slot .top{display:flex;gap:8px;align-items:center;justify-content:space-between}
+.badge{font-size:12px;padding:2px 8px;border:1px solid #374151;border-radius:999px;background:#111827}
+.slot img{
+  width:100%;height:150px; /* ảnh nhỏ lại */
+  object-fit:contain;image-rendering:pixelated;
+  background:#0b0d10;border-radius:10px;border:1px dashed #1f2937
+}
+.slot .stats{font-size:12px;color:#9ca3af}
+.slot .buy{
+  margin-top:auto;      /* ép nút xuống đáy slot */
+  background:#1f2937; border:1px solid #374151; color:#e5e7eb;
+  padding:10px; border-radius:10px; cursor:pointer;
+}
+.slot .buy:hover{filter:brightness(1.1)}
+.timebar{
+  position:absolute;left:0;right:0;bottom:0;
+  height:6px; /* dày hơn chút */
+  background:#1f2937;border-bottom-left-radius:12px;border-bottom-right-radius:12px;
+  overflow:hidden
+}
+.timebar .prog{height:100%;background:#2563eb;width:0%}
+.legend{display:flex;gap:12px;flex-wrap:wrap}
+
+/* Online / Visit */
+#onlineList .card .visit{margin-top:auto}
+.visit.hidden{display:none}
+/* Incoming (đang vận chuyển) */
+.incoming{margin:10px 0 14px 0;padding:10px;border:1px solid #1f2937;border-radius:12px;background:#0d1117}
+.incoming.hidden{display:none}
+.incoming h3{margin:0 0 8px 0;font-size:14px;opacity:.9}
+
+.incoming-list{display:flex;flex-direction:column;gap:8px}
+.incoming-item{
+  display:flex;align-items:center;gap:10px;
+  background:#0b0d10;border:1px solid #1f2937;border-radius:10px;padding:8px
+}
+.incoming-item img{width:56px;height:40px;object-fit:contain;background:#0d1117;border:1px dashed #1f2937;border-radius:8px}
+.incoming-item .meta{display:flex;flex-direction:column;gap:4px;flex:1}
+.incoming-item .name{font-weight:600}
+.incoming-item .eta{font-size:12px;color:#9ca3af}
+
+.incoming-item .bar{height:8px;background:#111827;border:1px solid #1f2937;border-radius:999px;overflow:hidden}
+.incoming-item .bar .prog{
+  height:100%;width:0%;
+  background:linear-gradient(90deg,#3b82f6,#22d3ee);
+  transition:width .15s linear;
+}
+.incoming-item .actions{display:flex;gap:8px;margin-left:auto}
+.button{
+  background:linear-gradient(180deg,#1f2937,#111827);
+  border:1px solid #374151;color:#e5e7eb;padding:8px 10px;border-radius:10px;cursor:pointer
+}
+.button:hover{filter:brightness(1.1)}
+.button:active{transform:translateY(1px)}
+/* Card glow theo tư chất */
+.card.forged img {
+  box-shadow: 0 0 10px #9ca3af;
+}
+.card.exotic img {
+  box-shadow: 0 0 15px #34d399;
+}
+.card.mythic img {
+  box-shadow: 0 0 20px #a78bfa;
+}
+.card.celestial img {
+  box-shadow: 0 0 20px #60a5fa;
+}
+.card.transcendent img {
+  box-shadow: 0 0 25px gold;
+}
+
+/* Hover effect */
+.card img {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.card img:hover {
+  transform: scale(1.08);
+  z-index: 2;
+}
+/* Conveyor glow theo tư chất */
+.slot.forged img {
+  box-shadow: 0 0 10px #9ca3af;
+}
+.slot.exotic img {
+  box-shadow: 0 0 15px #34d399;
+}
+.slot.mythic img {
+  box-shadow: 0 0 20px #a78bfa;
+}
+.slot.celestial img {
+  box-shadow: 0 0 20px #60a5fa;
+}
+.slot.transcendent img {
+  box-shadow: 0 0 25px gold;
+}
+
+.slot img {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.slot img:hover {
+  transform: scale(1.05);
+  z-index: 2;
+}
+
+/* ===== Login Modal ===== */
+.modal {
+  position: fixed; inset: 0; display: none; align-items: center; justify-content: center;
+  background: rgba(0,0,0,0.6); z-index: 50;
+}
+.modal.shown { display: flex; }
+.modal-card {
+  width: 320px; background: #0d1117; border:1px solid #1f2937; border-radius: 12px;
+  padding: 16px; display: flex; flex-direction: column; gap: 10px;
+}
+.modal-card h3 { margin: 0 0 8px 0; }
+.modal-card label { display: flex; flex-direction: column; gap: 6px; font-size: 14px; }
+.modal-card input {
+  background:#0b0d10; color:#e5e7eb; border:1px solid #374151; border-radius:8px; padding:8px;
+}
+.modal-card .button { width: 100%; margin-top: 8px; }
