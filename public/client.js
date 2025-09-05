@@ -299,12 +299,11 @@ function renderVisit(target){
 
 // ===== WS =====
 function connect() {
-  socket = new WebSocket(`ws://${location.host}/ws`);
+  const proto = location.protocol === 'https:' ? 'wss://' : 'ws://';
+  socket = new WebSocket(`${proto}${location.host}/ws`);
 
   socket.addEventListener('open', () => {
-    // Xin hello để lấy sessionId + tên hiện tại (nếu đã có từ cookie)
     socket.send(JSON.stringify({ type: 'hello' }));
-    // Mở modal login để người chơi đăng nhập (hoặc đăng ký)
     showLogin();
   });
 
